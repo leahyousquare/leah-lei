@@ -1,0 +1,37 @@
+* {
+	margin: 0;
+	list-style: none;
+}
+header {
+	width: auto;
+	background-color: #B8E1E3;
+ 	border-bottom: black 4px solid;
+ 	height: auto;
+ 	color: #eff8f9;
+ 	text-align: right;
+ 	font-family: 'Work Sans', sans-serif;
+}
+header ul {
+	font-size: 18px;
+	display: flex;
+
+}
+header li {
+	display: inline;
+	padding-right: 10px;
+}
+
+
+header a {
+	text-decoration: none;
+	color: white;
+}
+
+.main {
+	text-align: center;
+	width: auto;
+}
+
+h3 {
+	text-align: center;
+}
