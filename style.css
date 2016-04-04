@@ -4,7 +4,7 @@
 }
 header {
 	width: auto;
-	background-color: #B8E1E3;
+	background-color:  #49d0d0;
  	border-bottom: black 4px solid;
  	height: auto;
  	color: #eff8f9;
@@ -32,6 +32,25 @@ header a {
 	width: auto;
 }
 
-h3 {
-	text-align: center;
+body {
+	font-family: arial;
 }
+
+h2 {
+	text-decoration: underline;
+}
+
+img {
+	height: 400px;
+	width: auto;
+}
+.ordersec {
+	margin-left: 350px;
+}
+
+.coloropt {
+	float: left;
+	width: 290px;
+}
+
+.
