@@ -126,3 +126,12 @@ h3 {
 	margin-right: 200px;
 	margin-left: 200px;
 }
+
+.fa {
+	color:blue;
+}
+
+.fa a:hover {
+	color: black;
+}
+;
