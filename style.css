@@ -128,10 +128,10 @@ h3 {
 }
 
 .fa {
-	color:#3B5998;
+	color: #3B5998;
 }
 
-.fa a:hover {
+.fa:hover {
 	color: black;
 }
 ;
