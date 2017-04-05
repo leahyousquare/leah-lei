@@ -5,6 +5,7 @@
 
 header {
 	width: auto;
+	max-width: 1280px;
 	background-color:  #49d0d0;
  	border-bottom: black 5px solid;
  	height: auto;
@@ -34,7 +35,9 @@ header a:hover {
 
 .main {
 	text-align: center;
-	width: auto;
+	padding-left: 30px;
+	width: 480px;
+	max-width: 880px;
 }
 
 body {
@@ -62,6 +65,8 @@ h3 {
 }
 .ordersec {
 	margin-left: 350px;
+	width: 80%;
+	max-width: 360px;
 }
 
 .coloropt {
