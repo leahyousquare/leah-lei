@@ -11,6 +11,7 @@ header {
  	height: auto;
  	color: #f4d7d7;
  	font-family: 'Work Sans', sans-serif;
+	display: none;
 }
 header ul {
 	font-size: 18px;
@@ -43,16 +44,19 @@ header a:hover {
 body {
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 300;
+	display: none;
 }
 
 h2 {
 	text-decoration: underline;
 	font-size: 35px;
+	display: none;
 }
 
 img {
 	height: 400px;
 	width: auto;
+	display: none;
 }
 h3 {
 	font-size: 25px;
@@ -62,16 +66,19 @@ h3 {
 
 .products {
 	text-align: center;
+	display: none;
 }
 .ordersec {
 	margin-left: 350px;
 	width: 80%;
 	max-width: 360px;
+	display: none;
 }
 
 .coloropt {
 	float: left;
 	width: 290px;
+	display: none;
 }
 
 .pro,
@@ -79,6 +86,7 @@ h3 {
 	text-align: center;
 	margin-left: 300px;
 	margin-right: 300px;
+	display: none;
 
 }
 
@@ -90,20 +98,24 @@ h3 {
 	display: block;
 	width: 350px;
 	height: 350px;
+	display: none;
 }
 
 .lei {
 	display: inline;
+	display: none;
 }
 
 .ordersec {
 	margin-right: 220px;
 	text-align: center;
+	display: none;
 }
 
 .orderformlink {
 	text-align: center;
 	margin-left: 30px;
+	display: none;
 }
 
 .survey {
@@ -113,22 +125,26 @@ h3 {
 	width: 470px;
 	height: 300px;
 	text-align: center;
+	display: none;
 
 }
 
 .quest {
 	width: 250px;
 	height: 100px;
+	display: none;
 }
 
 .form {
 	width: 250px;
+	display: none;
 }
 
 .comment {
 	text-align: center;
 	margin-right: 200px;
 	margin-left: 200px;
+	display: none;
 }
 
 .fa {
